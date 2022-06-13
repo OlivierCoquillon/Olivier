@@ -1,0 +1,26 @@
+body
+{
+  background-color:#F9F9F9;
+}
+hr
+{ background-color:#f5f7ed;
+  border-style:none;
+  border-color:grey;
+  border-width: 5px;
+  border-top-style: dotted;
+  height: 0px;
+  width: 5%;
+  }
+h3,h1,h2
+{
+  color:#1a8e72;
+  font-family: cursive;
+}
+img:hover
+{
+  background-color: grey;
+}
+div {
+  height: 130px;
+  background: #CDF0EA;
+}
